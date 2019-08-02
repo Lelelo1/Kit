@@ -125,24 +125,11 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Kit/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "4.1.0.618606"
-        },
-        "compile": {
-          "bin/placeholder/Kit.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Kit.dll": {}
-        }
-      },
       "KitTest/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Kit": "1.0.0",
+          "Namspace-CustomKit": "1.0.0",
           "Xamarin.Forms": "4.1.0.618606"
         },
         "compile": {
@@ -150,6 +137,19 @@
         },
         "runtime": {
           "bin/placeholder/KitTest.dll": {}
+        }
+      },
+      "Namspace-CustomKit/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "4.1.0.618606"
+        },
+        "compile": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
         }
       }
     },
@@ -277,24 +277,11 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Kit/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "4.1.0.618606"
-        },
-        "compile": {
-          "bin/placeholder/Kit.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Kit.dll": {}
-        }
-      },
       "KitTest/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Kit": "1.0.0",
+          "Namspace-CustomKit": "1.0.0",
           "Xamarin.Forms": "4.1.0.618606"
         },
         "compile": {
@@ -302,6 +289,19 @@
         },
         "runtime": {
           "bin/placeholder/KitTest.dll": {}
+        }
+      },
+      "Namspace-CustomKit/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "4.1.0.618606"
+        },
+        "compile": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
         }
       }
     },
@@ -429,24 +429,11 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Kit/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "4.1.0.618606"
-        },
-        "compile": {
-          "bin/placeholder/Kit.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Kit.dll": {}
-        }
-      },
       "KitTest/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Kit": "1.0.0",
+          "Namspace-CustomKit": "1.0.0",
           "Xamarin.Forms": "4.1.0.618606"
         },
         "compile": {
@@ -454,6 +441,19 @@
         },
         "runtime": {
           "bin/placeholder/KitTest.dll": {}
+        }
+      },
+      "Namspace-CustomKit/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "4.1.0.618606"
+        },
+        "compile": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
         }
       }
     },
@@ -581,24 +581,11 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Kit/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "4.1.0.618606"
-        },
-        "compile": {
-          "bin/placeholder/Kit.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Kit.dll": {}
-        }
-      },
       "KitTest/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Kit": "1.0.0",
+          "Namspace-CustomKit": "1.0.0",
           "Xamarin.Forms": "4.1.0.618606"
         },
         "compile": {
@@ -606,6 +593,19 @@
         },
         "runtime": {
           "bin/placeholder/KitTest.dll": {}
+        }
+      },
+      "Namspace-CustomKit/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "4.1.0.618606"
+        },
+        "compile": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Namspace-CustomKit.dll": {}
         }
       }
     }
@@ -857,15 +857,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "Kit/1.0.0": {
-      "type": "project",
-      "path": "../Kit/Kit.csproj",
-      "msbuildProject": "../Kit/Kit.csproj"
-    },
     "KitTest/1.0.0": {
       "type": "project",
       "path": "../KitTest/KitTest.csproj",
       "msbuildProject": "../KitTest/KitTest.csproj"
+    },
+    "Namspace-CustomKit/1.0.0": {
+      "type": "project",
+      "path": "../Kit/Kit.csproj",
+      "msbuildProject": "../Kit/Kit.csproj"
     }
   },
   "projectFileDependencyGroups": {

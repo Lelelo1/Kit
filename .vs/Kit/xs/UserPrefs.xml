@@ -8,7 +8,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Kit" expanded="True">
-            <Node name="Kit" expanded="True" selected="True" />
+            <Node name="Kit" expanded="True">
+              <Node name="Extensions.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

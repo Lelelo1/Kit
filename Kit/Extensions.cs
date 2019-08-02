@@ -7,9 +7,9 @@ namespace Namespace
     {
         /* Could use with 3 options: find nearest (any) Layout, find nearest Layout<View>, or find nearest ContentView */
         /* works */
-        public static Element RootLayout(this Element element, bool layoutWithChildren = false)
+        public static Layout RootLayout(this Element element, bool layoutWithChildren = false)
         {
-            return FindRootLayout(element, layoutWithChildren);
+            return (Layout)FindRootLayout(element, layoutWithChildren);
         }
         static Element FindRootLayout(Element element, bool layoutWithChildren)
         {
@@ -68,16 +68,16 @@ namespace Namespace
         */
 
         /* list all layouts in the page */
-        public static List<Element> AllLayouts(this Element element)
+        public static List<Layout> AllLayouts(this Element element)
         {
             var root = element.RootLayout();
-            Layouts = new List<Element>();
+            Layouts = new List<Layout>();
             AddLayout(root);
             var list = Layouts;
             Layouts = null;
             return list;
         }
-        static List<Element> Layouts;
+        static List<Layout> Layouts;
         static Element AddLayout(Element element)
         {
 
@@ -108,6 +108,23 @@ namespace Namespace
             // was TemplatedView or ContentPresenter: https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/layouts 
             Console.WriteLine("Warning: Non supported layout type. Was: " + element + ". Should be of ContentView/Frame or Layout<View>");
         }
-         
+
+        public static void Remove(this Layout layout, View view)
+        {
+            if(layout is ContentView c)
+            {
+                view = null;
+                c.Content = null;
+            }
+            else if(layout is Layout<View> l)
+            {
+                l.Children.Remove(view);
+                view = null;
+            }
+            else
+            {
+                PrintError(layout);
+            }
+        }
     }
 }

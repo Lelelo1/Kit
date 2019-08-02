@@ -497,7 +497,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/leowetterek/Projects/Kit/Kit/Kit.csproj",
-      "projectName": "Kit",
+      "projectName": "Namspace-CustomKit",
       "projectPath": "/Users/leowetterek/Projects/Kit/Kit/Kit.csproj",
       "packagesPath": "/Users/leowetterek/.nuget/packages/",
       "outputPath": "/Users/leowetterek/Projects/Kit/Kit/obj/",
