@@ -6,7 +6,7 @@
     <Owners>Lelelo1</Owners>
     <Title>Kit</Title>
     <Description>A few methods that can be usefull when building custom UI in Xamarin.Forms.  Extension methods on Element. Where RootLayout() return the root layout of the page - which also can be specified to return the highest layout of type Layout&lt;VIew&gt; (Stacklyout, FlexLayout etc ) -in the hierarchy. And AllLayouts() that returns a list of every Layout in th family  .</Description>
-    <PackageId>Kit</PackageId>
+    <PackageId>Namspace-CustomKit</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <NeutralLanguage>en-US</NeutralLanguage>
     <PackageLicenseUrl>https://github.com/Lelelo1/Kit/blob/master/LICENSE</PackageLicenseUrl>
