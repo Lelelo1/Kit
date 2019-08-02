@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="KitTest.MainPage">
+    <ContentView x:Name="root" AutomationId="c">
+        <FlexLayout AutomationId="f">
+            <Frame AutomationId="fr">
+            <StackLayout AutomationId="s">
+                <Label Text="My testingground" />
+                <FlexLayout JustifyContent="Center" AutomationId="fl">
+                    <Button Text="Test" />
+                    <ContentView AutomationId="co">
+                        <StackLayout AutomationId="sta">
+                            <Label Text="deep nested" />
+                            <Button Text="deepButton"
+                                    x:Name="deepButton" />
+                        </StackLayout>
+                    </ContentView>
+                </FlexLayout>
+                <StackLayout AutomationId="stac">
+                    <Label Text="anotherLabel"
+                           x:Name="anotherLabel" />
+                </StackLayout>
+                <Button Text="Test"
+                        Clicked="Handle_Clicked" />
+            </StackLayout>
+        </Frame>
+            <StackLayout AutomationId="stack">
+                <Label Text="other"/>
+            </StackLayout>
+        </FlexLayout>
+    </ContentView>
+    <!-- AutomitionIds given by the first letter in the name of the layout type,
+    and additional letter in the order they appear reading the xaml -->
+</ContentPage>

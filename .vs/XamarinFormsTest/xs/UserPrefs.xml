@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E7490301-C7A3-40FD-9B81-EA07D6328CED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extensions/Extensions.cs">
+    <Files>
+      <File FileName="XamarinFormsTest/MainPage.xaml.cs" Line="25" Column="43" />
+      <File FileName="XamarinFormsTest/MainPage.xaml" Line="19" Column="19" />
+      <File FileName="Extensions/Extensions.cs" Line="39" Column="1" />
+      <File FileName="XamarinFormsTest/Draggable.cs" Line="115" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsTest" expanded="True">
+            <Node name="Extensions" expanded="True">
+              <Node name="Extensions.cs" selected="True" />
+            </Node>
+            <Node name="XamarinFormsTest" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E76C261E-9F00-4B94-ACA7-F6496E964AC1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leowetterek/Projects/XamarinFormsTest/Extensions/Extensions.cs" relfile="Extensions/Extensions.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

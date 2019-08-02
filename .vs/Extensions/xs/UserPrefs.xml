@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E7490301-C7A3-40FD-9B81-EA07D6328CED}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExtensionsTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E76C261E-9F00-4B94-ACA7-F6496E964AC1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionsTest/MainPage.xaml">
+    <Files>
+      <File FileName="Extensions/Extensions.cs" Line="88" Column="28" />
+      <File FileName="ExtensionsTest/MainPage.xaml.cs" Line="11" Column="2" />
+      <File FileName="ExtensionsTest/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extensions" expanded="True">
+            <Node name="Extensions" expanded="True" />
+            <Node name="ExtensionsTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="ExtensionsTest.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

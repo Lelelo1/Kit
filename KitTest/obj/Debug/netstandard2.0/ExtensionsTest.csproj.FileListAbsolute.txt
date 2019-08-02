@@ -1,0 +1,15 @@
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/bin/Debug/netstandard2.0/ExtensionsTest.deps.json
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/bin/Debug/netstandard2.0/ExtensionsTest.dll
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/bin/Debug/netstandard2.0/ExtensionsTest.pdb
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/bin/Debug/netstandard2.0/Extensions.dll
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/bin/Debug/netstandard2.0/Extensions.pdb
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.csprojAssemblyReference.cache
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.csproj.CoreCompileInputs.cache
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.AssemblyInfoInputs.cache
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.AssemblyInfo.cs
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.csproj.CopyComplete
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.dll
+/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest/obj/Debug/netstandard2.0/ExtensionsTest.pdb

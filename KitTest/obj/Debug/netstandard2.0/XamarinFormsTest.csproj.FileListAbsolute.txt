@@ -1,0 +1,15 @@
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/bin/Debug/netstandard2.0/XamarinFormsTest.deps.json
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/bin/Debug/netstandard2.0/XamarinFormsTest.dll
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/bin/Debug/netstandard2.0/XamarinFormsTest.pdb
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/bin/Debug/netstandard2.0/Extensions.dll
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/bin/Debug/netstandard2.0/Extensions.pdb
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.csprojAssemblyReference.cache
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.csproj.CoreCompileInputs.cache
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.AssemblyInfoInputs.cache
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.AssemblyInfo.cs
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.csproj.CopyComplete
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.dll
+/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest/obj/Debug/netstandard2.0/XamarinFormsTest.pdb

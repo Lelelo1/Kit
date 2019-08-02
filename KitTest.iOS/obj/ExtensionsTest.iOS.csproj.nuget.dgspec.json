@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest.iOS/ExtensionsTest.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest.iOS/ExtensionsTest.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest.iOS/ExtensionsTest.iOS.csproj",
+        "projectName": "XamarinFormsTest.iOS",
+        "projectPath": "/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest.iOS/ExtensionsTest.iOS.csproj",
+        "packagesPath": "/Users/leowetterek/.nuget/packages/",
+        "outputPath": "/Users/leowetterek/Projects/ExtensionsTest/ExtensionsTest.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/leowetterek/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "/Users/leowetterek/Projects/TestNuGets/LocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.618606, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

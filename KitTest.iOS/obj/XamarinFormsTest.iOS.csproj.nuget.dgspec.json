@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest.iOS/XamarinFormsTest.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest.iOS/XamarinFormsTest.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest.iOS/XamarinFormsTest.iOS.csproj",
+        "projectName": "XamarinFormsTest.iOS",
+        "projectPath": "/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest.iOS/XamarinFormsTest.iOS.csproj",
+        "packagesPath": "/Users/leowetterek/.nuget/packages/",
+        "outputPath": "/Users/leowetterek/Projects/XamarinFormsTest/XamarinFormsTest.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/leowetterek/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "/Users/leowetterek/Projects/TestNuGets/LocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.618606, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
